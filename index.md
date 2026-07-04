@@ -10,7 +10,7 @@ at the University of Turin
 Classification and regression project predicting employee attrition and monthly 
 income using scikit-learn.
 
-[View project on GitHub](https://github.com/olgashopieva/ibm-hr-analytics-attrition-income)
+[View project on GitHub](https://github.com/OlgaShopieva/adabi-hr-attrition-prediction)
 
 ## Skills
 Python, Pandas, Scikit-learn, Data Visualization, Model Evaluation
