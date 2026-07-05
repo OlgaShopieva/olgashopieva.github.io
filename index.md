@@ -10,7 +10,7 @@ Un progetto di classificazione end-to-end sviluppato in Python per prevedere il 
 [View project on GitHub](https://github.com/OlgaShopieva/adabi-hr-attrition-prediction)  
 
 ## Skills
-Python, Pandas, Numpy, Matplotlib, Scikit-learn, seaborn, sklearn
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, Seaborn
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/olga-shopieva-8453033bb/) · [email](mailto:olgashopieva@gmail.com)
