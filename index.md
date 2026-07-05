@@ -1,19 +1,16 @@
 # Olga Shopieva
-## Data Science & Backend Engineering Portfolio
+## Machine Learning & Data Science
 
-I'm a Master's student in Data Analysis for Business Intelligence and Data Science 
-at the University of Turin
+Sono una studentessa del **Master in Analisi dei Dati per Business Intelligence e Data Science** presso l'Università degli Studi di Torino(Italia). Sono interessata a  data analysis, data science, predictive modeling e machine learning.
 
 ## Featured Project
 
-### IBM HR Analytics: Employee Attrition & Income Prediction
-Classification and regression project predicting employee attrition and monthly 
-income using scikit-learn.
-
-[View project on GitHub](https://github.com/OlgaShopieva/adabi-hr-attrition-prediction)
+### IBM HR Analytics: Employee Attrition Prediction
+Un progetto di classificazione end-to-end sviluppato in Python per prevedere il rischio di abbandono da parte dei dipendenti aziendali.  
+[View project on GitHub](https://github.com/OlgaShopieva/adabi-hr-attrition-prediction)  
 
 ## Skills
-Python, Pandas, Scikit-learn, Data Visualization, Model Evaluation
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, seaborn, sklearn
 
 ## Contact
-[LinkedIn] · [email]
+[LinkedIn](https://www.linkedin.com/in/olga-shopieva-8453033bb/) · [email](mailto:olgashopieva@gmail.com))
