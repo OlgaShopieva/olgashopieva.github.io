@@ -16,4 +16,4 @@ Un progetto di classificazione end-to-end sviluppato in Python per prevedere il 
 Python, Pandas, Numpy, Matplotlib, Scikit-learn, Seaborn
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/olga-shopieva-8453033bb/) · [email](mailto:olgashopieva@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/olga-shopieva-8453033bb/) · [olgashopieva@gmail.com](mailto:olgashopieva@gmail.com)
